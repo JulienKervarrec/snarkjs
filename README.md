@@ -1,3 +1,7 @@
+## Parcours français
+
+[Six chapitres pour lire snarkjs](docs/fr/README.md) : artefacts, paramètres, témoin, fullprove, vérification et EVM. La [PR #635](https://github.com/iden3/snarkjs/pull/635) propose une correction ciblée du tutoriel amont ; les chapitres restent propres à ce fork.
+
 
 ![tests](https://github.com/iden3/snarkjs/workflows/tests/badge.svg)![Check%20snarkjs%20tutorial](https://github.com/iden3/snarkjs/workflows/Check%20snarkjs%20tutorial/badge.svg)
 
